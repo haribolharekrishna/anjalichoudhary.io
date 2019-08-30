@@ -1,5 +1,5 @@
 .site-header{
-    background-color: #9c5d49;
+    background-color: #040404;
     color: #ecfdf9;
     height: 100vh;
     font-family: monospace;
@@ -26,6 +26,4 @@ body
     border-radius: 50%;
     height: 300px;
     width: 300px;
-    box-shadow: #3e1204 2px 5px 5px;
-}
 }
